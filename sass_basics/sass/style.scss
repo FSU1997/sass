@@ -1,0 +1,33 @@
+@import 'var';
+@import 'components';
+@import 'mixin';
+
+body 
+{
+	h1{
+		display: flex;
+		justify-content: center;
+		color: $duC;
+	}
+		h4{
+		display: flex;
+		justify-content: center;
+		color: $duC;
+	}
+		button {	
+			display: flex;
+			direction: row;
+
+			}
+			.imgLink {
+
+				}img {
+				margin: 2rem;
+				height: 8rem;
+			}
+
+			.imgLink:active img, .imgLink:focus img{
+				height: 16rem;
+			}
+			}
+	

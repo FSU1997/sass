@@ -1,0 +1,26 @@
+/*Colors*/
+/*Size*/
+.button {
+  border-radius: 10px;
+  width: 250px;
+  background-color: fff;
+  border: 1px solid #eee; }
+
+body h1 {
+  display: flex;
+  justify-content: center;
+  color: #a25fb8; }
+body h4 {
+  display: flex;
+  justify-content: center;
+  color: #a25fb8; }
+body button {
+  display: flex;
+  direction: row; }
+body img {
+  margin: 2rem;
+  height: 8rem; }
+body .imgLink:active img, body .imgLink:focus img {
+  height: 16rem; }
+
+/*# sourceMappingURL=style.css.map */
